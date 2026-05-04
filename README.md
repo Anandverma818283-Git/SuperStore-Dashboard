@@ -94,6 +94,7 @@ The dataset contains transactional sales data, including:
 ```
 superstore-dashboard/
 ├── Superstore Dashboard.pbix
+├── Superstore_questions.pdf
 ├── README.md
 └── SuperStore Dasboard !.pdf
 ```
